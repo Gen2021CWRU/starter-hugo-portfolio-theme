@@ -25,14 +25,14 @@ interests:
 - R programming
 - Genome-Wide Association Studies 
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+education:
+  courses:
+  - course: MS in Biostatistics
+    institution: Case Western Reserved University
+    year: 2022
+  - course: Bachlor in Statistics
+    institution: Shenzhen University
+    year: 2019
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
