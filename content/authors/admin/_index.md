@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Gen Li 
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,17 +13,17 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Case Western Reserved University
+  url: "https://case.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm in MS program of biostatistics. My research field is bioinformatics.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Statistics and Applied Mathematics
+- R programming
+- Genome-Wide Association Studies 
 
 #education:
 #  courses:
