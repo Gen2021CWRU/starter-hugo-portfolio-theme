@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gen Li 
+title: Gen Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,26 +13,26 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-organizations:
-- name: Case Western Reserved University
-  url: "https://case.edu/"
+#organizations:
+#- name: 腾讯
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm in MS program of biostatistics. My research field is bioinformatics.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Statistics and Applied Mathematics
-- R programming
-- Genome-Wide Association Studies 
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: MS in Biostatistics
-    institution: Case Western Reserved University
-    year: 2022
-  - course: Bachlor in Statistics
-    institution: Shenzhen University
-    year: 2019
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
